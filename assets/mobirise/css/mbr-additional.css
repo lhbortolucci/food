@@ -1,14 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
-
-
-
 
 
 
@@ -90,7 +85,7 @@ h6,
   background-color: #efefef !important;
 }
 .bg-success {
-  background-color: #90a878 !important;
+  background-color: #41a85f !important;
 }
 .bg-info {
   background-color: #7e9b9f !important;
@@ -162,8 +157,8 @@ h6,
   border-color: #597478 !important;
 }
 .btn-success {
-  background-color: #90a878;
-  border-color: #90a878;
+  background-color: #41a85f;
+  border-color: #41a85f;
   color: #ffffff;
 }
 .btn-success:hover,
@@ -172,14 +167,14 @@ h6,
 .btn-success:active,
 .btn-success.active {
   color: #ffffff;
-  background-color: #6a8153;
-  border-color: #6a8153;
+  background-color: #2c7140;
+  border-color: #2c7140;
 }
 .btn-success.disabled,
 .btn-success:disabled {
   color: #ffffff !important;
-  background-color: #6a8153 !important;
-  border-color: #6a8153 !important;
+  background-color: #2c7140 !important;
+  border-color: #2c7140 !important;
 }
 .btn-warning {
   background-color: #f3c649;
@@ -283,8 +278,8 @@ h6,
 }
 .btn-success-outline {
   background: none;
-  border-color: #5d7149;
-  color: #5d7149;
+  border-color: #255e35;
+  color: #255e35;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
@@ -292,14 +287,14 @@ h6,
 .btn-success-outline:active,
 .btn-success-outline.active {
   color: #ffffff;
-  background-color: #90a878;
-  border-color: #90a878;
+  background-color: #41a85f;
+  border-color: #41a85f;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
   color: #ffffff !important;
-  background-color: #90a878 !important;
-  border-color: #90a878 !important;
+  background-color: #41a85f !important;
+  border-color: #41a85f !important;
 }
 .btn-warning-outline {
   background: none;
@@ -345,7 +340,7 @@ h6,
   color: #efefef !important;
 }
 .text-success {
-  color: #90a878 !important;
+  color: #41a85f !important;
 }
 .text-info {
   color: #7e9b9f !important;
@@ -357,7 +352,7 @@ h6,
   color: #f28281 !important;
 }
 .alert-success {
-  background-color: #90a878;
+  background-color: #41a85f;
 }
 .alert-info {
   background-color: #7e9b9f;
@@ -402,7 +397,7 @@ h6,
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
-  color: #d0dac6;
+  color: #93d5a6;
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
@@ -422,29 +417,6 @@ h6,
 }
 .scrollToTop_wraper {
   opacity: 0 !important;
-}
-#header1-0 .mbr-section-title {
-  text-align: center;
-}
-#header1-0 .mbr-section-title I {
-  color: #b8312f;
-  font-size: 48px;
-  font-family: 'Open Sans', sans-serif;
-}
-#header1-0 .mbr-section-lead {
-  color: #fac51c;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 20px;
-}
-#header1-0 .btn {
-  font-family: 'PT Sans', sans-serif;
-  font-size: 24px;
-}
-#header1-0 .mbr-section-title SPAN {
-  color: #ffffff;
-}
-#header1-0 .mbr-section-lead I {
-  color: #ffffff;
 }
 #menu-1s .hide-buttons .nav-btn {
   display: none !important;
@@ -507,6 +479,9 @@ h6,
 #menu-1s .link[aria-expanded="true"],
 #menu-1s .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
+}
+#header1-33 .mbr-section-title {
+  color: #b8312f;
 }
 
 
