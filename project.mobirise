@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site @FOOD ",
-    "currentPage": "Sobre .html",
+    "currentPage": "tecnologia.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -136,6 +136,24 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#c1c1c1",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-size": "46px"
+            },
+            ".mbr-section-lead B": {
+              "color": "#ffffff",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "30px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "46px",
+              "color": "#fac51c"
+            }
+          },
           "_anchor": "header1-33",
           "_params": {
             "parallax": false,
@@ -158,25 +176,7 @@
           },
           "title": "<span style=\"font-size: 70px; line-height: 77px;\">Conheça o @FOOD</span><span style=\"font-size: 70px; font-weight: normal; line-height: 77px;\"><br></span><br><span style=\"color: rgb(193, 193, 193); line-height: 1.1;\">&nbsp;</span><br>",
           "text": "<b>O &nbsp;@FOOD SUITE  é um conjunto de aplicações especialmente desenvolvidas para atender empresas do ramo de alimentação, Lojas de Conveniência, fast-food, franquias de alimentação, Restaurantes, self-services, entre outros.  Foi desenhado para suportar de forma fácil, eficiente e sustentável, os problemas reais que emergem no cotidiano da gestão desses negócios.<br></b><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Sobre .html\" data-toolbar=\"-mbrBtnMove\">Conheça nosso Produto</a> ",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#c1c1c1",
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
-              "font-size": "46px"
-            },
-            ".mbr-section-lead B": {
-              "color": "#ffffff",
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
-              "font-size": "30px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "46px",
-              "color": "#fac51c"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Sobre .html\" data-toolbar=\"-mbrBtnMove\">Conheça nosso Produto</a> "
         }
       ]
     },
@@ -2298,7 +2298,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/onlinebackup1-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cadastro3-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2394,13 +2394,17 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/store1-600x444.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title1": "Integração com Site",
+          "title1": "Integração com Site e Aplicativos",
           "subtitle1": "Tudo na sua loja e na Internet",
           "caption1": "Incorporamos um site de E-comerce no @FOOD, para que você tenha um novo canal de vendas, totalmente intergrado ao seu estoque. Todas as compras do site ou do celular do cliente, são automaticamente disponibilizados em um PDV do seu estabelecimento.&nbsp;<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
