@@ -140,7 +140,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/fundo4-2000x1157.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -148,20 +148,33 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlayColor": "#28324e",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "@FOOD<br>&nbsp;",
+          "title": "<span style=\"font-size: 70px; font-weight: normal; line-height: 77px;\">Conheça o @FOOD</span><span style=\"font-size: 70px; font-weight: normal; line-height: 77px;\"><br></span><br><span style=\"color: rgb(193, 193, 193); line-height: 1.1;\">&nbsp;</span><br>",
           "text": "<b>O &nbsp;@FOOD SUITE  é um conjunto de aplicações especialmente desenvolvidas para atender empresas do ramo de alimentação, Lojas de Conveniência, fast-food, franquias de alimentação, Restaurantes, self-services, entre outros.  Foi desenhado para suportar de forma fácil, eficiente e sustentável, os problemas reais que emergem no cotidiano da gestão desses negócios.<br></b><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Sobre .html\" data-toolbar=\"-mbrBtnMove\">Conheça nosso Produto</a> ",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#b8312f"
+              "color": "#c1c1c1",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+              "font-size": "46px"
+            },
+            ".mbr-section-lead B": {
+              "color": "#ffffff",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "30px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "46px",
+              "color": "#fac51c"
             }
           }
         }

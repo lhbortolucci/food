@@ -1,9 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+
+
 
 
 
@@ -481,7 +484,18 @@ h6,
   color: #efefef!important;
 }
 #header1-33 .mbr-section-title {
-  color: #b8312f;
+  color: #c1c1c1;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 46px;
+}
+#header1-33 .mbr-section-lead B {
+  color: #ffffff;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 30px;
+}
+#header1-33 .mbr-section-title SPAN {
+  font-size: 46px;
+  color: #fac51c;
 }
 
 
