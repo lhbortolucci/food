@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site @FOOD ",
-    "currentPage": "index.html",
+    "currentPage": "Sobre .html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -138,7 +138,7 @@
           "_name": "header1",
           "_anchor": "header1-33",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/fundo4-2000x1157.jpg",
@@ -149,14 +149,14 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#28324e",
+            "overlayOpacity": "0.3",
+            "overlayColor": "#475577",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-size: 70px; font-weight: normal; line-height: 77px;\">Conheça o @FOOD</span><span style=\"font-size: 70px; font-weight: normal; line-height: 77px;\"><br></span><br><span style=\"color: rgb(193, 193, 193); line-height: 1.1;\">&nbsp;</span><br>",
+          "title": "<span style=\"font-size: 70px; line-height: 77px;\">Conheça o @FOOD</span><span style=\"font-size: 70px; font-weight: normal; line-height: 77px;\"><br></span><br><span style=\"color: rgb(193, 193, 193); line-height: 1.1;\">&nbsp;</span><br>",
           "text": "<b>O &nbsp;@FOOD SUITE  é um conjunto de aplicações especialmente desenvolvidas para atender empresas do ramo de alimentação, Lojas de Conveniência, fast-food, franquias de alimentação, Restaurantes, self-services, entre outros.  Foi desenhado para suportar de forma fácil, eficiente e sustentável, os problemas reais que emergem no cotidiano da gestão desses negócios.<br></b><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Sobre .html\" data-toolbar=\"-mbrBtnMove\">Conheça nosso Produto</a> ",
           "_styles": {
@@ -258,7 +258,7 @@
             }
           },
           "title": "Sobre o @FOOD",
-          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>E</b>stamos orgulhosos por criar um produto que leva seu negócio físico, também para o mundo virtual.  Nossa ferramenta incorpora as melhores práticas do mercado e produzem informações fundamentais e coerentes para a gestão empresarial. &nbsp;O @FOOD foi especialmente elaborado para suportar o crescimento do negócio do cliente. Para isso, nossa tecnologia foi desenvolvida em ambiente de computação em NUVEM e ambiente WEB. permitindo o crescimento escalável e seguro, acompanhando a demanda e aumento do negócio do cliente, sem perder o investimento já realizado.Esse conceito atende ao cliente na sua loja física e também agrega uma loja virtual. Mas para que seja simples, adicionamos inteligência  e conhecimento em nossa ferramenta, o que faz com que sua administração e manutenção sejam praticamente transparentes ao usuário do Sistema. Realizando as operações diárias de sua loja Física, automaticamente, estará também gerenciando seu site, seus clientes na rede, seus produtos, seus estoques. Construímos uma solução  tecnológica que não dificulta sua operação.  Nossa interface foi especialmente desenvolvida para ser INTUITIVA facilitando a operação. O seu cliente que compra na loja física, pode também comprar no site, e tudo vai ser processado como se ele estivesse na sua frente, sem rotinas especiais, sem burocracia, sem alterar seu processo no dia-a-dia e vice-versa.&nbsp;</span><b>Nosso produto não visa somente atender os processos relativos ao cotidiano das empresas, queremos &nbsp;mais, levar um novo conceito de gestão, oferecendo uma Solução completa. Acreditamos que as novas tecnologias agregam valor e produzem condições para que nossos clientes VENDAM MAIS. Confira.</b><br>",
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>E</b>stamos orgulhosos por criar um produto que leva seu negócio físico, também para o mundo virtual.  Nossa ferramenta incorpora as melhores práticas do mercado e produzem informações fundamentais e coerentes para a gestão empresarial. &nbsp;O @FOOD foi especialmente elaborado para suportar o crescimento do negócio do cliente. Para isso, nossa tecnologia foi desenvolvida em ambiente de computação em NUVEM e ambiente WEB. permitindo o crescimento escalável e seguro, acompanhando a demanda e aumento do negócio do cliente, sem perder o investimento já realizado.Esse conceito atende ao cliente na sua loja física e também agrega uma loja virtual. Mas para que seja simples, adicionamos inteligência  e conhecimento em nossa ferramenta, o que faz com que sua administração e manutenção sejam praticamente transparentes ao usuário do Sistema. Realizando as operações diárias de sua loja Física, automaticamente, estará também gerenciando seu site, seus clientes na rede, seus produtos, seus estoques. Construímos uma solução  tecnológica que não dificulta sua operação.  Nossa interface foi especialmente desenvolvida para ser INTUITIVA facilitando a operação. O seu cliente que compra na loja física, pode também comprar no site, e tudo vai ser processado como se ele estivesse na sua frente, sem rotinas especiais, sem burocracia, sem alterar seu processo no dia-a-dia e vice-versa.&nbsp;</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
