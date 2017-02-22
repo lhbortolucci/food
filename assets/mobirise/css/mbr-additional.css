@@ -1010,6 +1010,10 @@ h6,
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
 }
+#gallery4-1r .mbr-gallery-item > div > span {
+  text-align: center;
+  color: #fac51c;
+}
 #menu-1s .hide-buttons .nav-btn {
   display: none !important;
 }

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site @FOOD ",
-    "currentPage": "Sobre .html",
+    "currentPage": "Videos.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1912,6 +1912,10 @@
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "20px"
+            },
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center",
+              "color": "#fac51c"
             }
           },
           "_params": {
@@ -1925,7 +1929,7 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-19-18-04-50.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
+                "caption": "Apresentando o Retaguarda do @FOOD",
                 "active": false
               },
               {
@@ -1955,7 +1959,7 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-19-18-06-17.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
+                "caption": "Mostrando o Cadastro de Fidelização do @FOOD",
                 "active": false
               },
               {
@@ -1975,12 +1979,32 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-19-18-08-25.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
+                "caption": "Encontrando um Cliente no @FOOD",
+                "active": false
+              },
+              {
+                "tags": "Retaguarda",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=GQlJci_LlaE",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-21-20-23-41.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "@FOOD",
+                "active": false
+              },
+              {
+                "tags": "Retaguarda",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=dWETW9aV2jM",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-02-21-22-26-09.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Cadastrando um Produto no @FOODe vendendo no site",
                 "active": true
               }
             ],
             "spacing": 1,
-            "showText": false,
+            "showText": true,
             "filter": true,
             "bgColor": "#000000",
             "filterBgColor": false,
