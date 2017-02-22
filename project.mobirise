@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site @FOOD ",
-    "currentPage": "index.html",
+    "currentPage": "Delivery.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2219,6 +2219,11 @@
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "color": "#eb6b56"
+            },
+            ".lead P": {
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -2228,7 +2233,7 @@
           "_anchor": "msg-box8-22",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/nuvem11-2000x1580.jpg",
@@ -2240,13 +2245,13 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.6",
-            "overlayColor": "#222",
+            "overlayColor": "#28324e",
             "showTitle": true,
             "showText": true,
             "showButton": false
           },
           "title": "<span style=\"font-weight: normal;\">Como fizemos o @FOOD</span><span style=\"font-weight: normal;\"><br></span>",
-          "text": "Quando iniciamos a criação de nosso produto, pensamos em como poderíamos ajudar nossos clientes a solucionar os problemas encontrados nos sistemas mais tradicionais, que levasse a eles toda a capacidade e flexibilidade das tecnologias atuais. Então criamos uma solução que permitiu integrar as plataformas móveis e a internet ao modelo convencional de trabalho dos negócios de alimentação. Veja abaixo um pouco de todo esse nosso empenho em lhe fornecer o melhor ambiente para operar seu restaurante.",
+          "text": "<p>Quando iniciamos a criação de nosso produto, pensamos em como poderíamos ajudar nossos clientes a solucionar os problemas encontrados nos sistemas mais tradicionais. &nbsp;Levar a eles a melhor tecnologia e a flexibilidade dos ambientes, como Internet e dispositivos móveis.</p><p><span style=\"line-height: 1.5;\">Então criamos uma solução que permitiu integrar as plataformas móveis e a internet ao modelo convencional de trabalho dos negócios de alimentação. Veja abaixo um pouco de todo esse nosso empenho em lhe fornecer o melhor ambiente para operar seu restaurante.</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -2390,7 +2395,8 @@
               "color": "#efefef"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "14px"
             }
           },
           "_anchor": "features3-24",
@@ -2430,7 +2436,7 @@
           },
           "title1": "Integração com Site e Aplicativos",
           "subtitle1": "Tudo na sua loja e na Internet",
-          "caption1": "Incorporamos um site de E-comerce no @FOOD, para que você tenha um novo canal de vendas, totalmente intergrado ao seu estoque. Todas as compras do site ou do celular do cliente, são automaticamente disponibilizados em um PDV do seu estabelecimento.&nbsp;<br>",
+          "caption1": "Incorporamos um site de E-comerce no <b>@FOOD</b>, para que você tenha um novo canal de vendas, totalmente intergrado ao seu estoque. Todas as compras do site ou do celular do cliente, são automaticamente disponibilizados em um PDV do seu estabelecimento.&nbsp;<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -2446,7 +2452,7 @@
           },
           "title2": "Ambiente em Nuvem",
           "subtitle2": "Tudo em um único Ambiente",
-          "caption2": "A tecnologia em nuvem é hoje a mais moderna que existe e está sendo utilizada cada vez mais. Mesmo sem notar, você já usa essa tecnologia quando acessa seus emails, as redes sociais, os vídeos do Youtube. Os benefícios do ambiente em Nuvem são imensos. Seu sistema está sempre disponível. Diferente de um servidor físico da empresa, que pode parar de funcionar ou ser desligado.<br><br>",
+          "caption2": "A tecnologia em nuvem é hoje a mais moderna que existe e está sendo utilizada cada vez mais. Mesmo sem notar, você já usa essa tecnologia quando acessa seus emails, as redes sociais, os vídeos do Youtube. Os benefícios do ambiente em Nuvem são imensos. Seu sistema está sempre disponível. Diferente de um servidor físico da empresa, que pode parar de funcionar ou ser desligado. Mas, para garantir o funcionamento do seu estabelecimento, mesmo sem conexão, nossa aplicação trabalha localmente nos seu PDV.&nbsp;<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -2518,7 +2524,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<p>\"Os custos da computação em nuvem são muito mais flexíveis do que os métodos tradicionais. As empresas só precisam comissionar - e assim pagar apenas - a capacidade do servidor e da infra-estrutura quando necessário. Mais capacidade pode ser provisionada para horários de pico e depois desprovisionada quando não for mais necessária. A computação tradicional requer capacidade de compra suficiente para horários de pico e permitindo que ele permaneça ocioso o resto do tempo. \"</p><p><br></p><p>Google.</p>"
+          "text": "<p>\"Os custos da computação em nuvem são muito mais flexíveis do que os métodos tradicionais.</p><p> As empresas só precisam comissionar (e assim pagar) apenas &nbsp;a capacidade do servidor e da infra-estrutura que vai utilizar para suprir as suas necessidades. &nbsp;Como o ambiente em nuvem é escalável, mais capacidade pode ser provisionada, &nbsp;quando necessária.</p><p> &nbsp;A computação tradicional requer capacidade de compra suficiente para horários de pico e fica ocioso o resto do tempo.\"</p><p><br></p><p>Google.</p>"
         }
       ]
     },

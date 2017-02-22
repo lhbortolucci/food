@@ -5,6 +5,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 
 
 
@@ -1078,6 +1079,7 @@ h6,
 }
 
 
+
 #menu-1z .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1151,6 +1153,10 @@ h6,
   font-family: 'Roboto', sans-serif;
   color: #eb6b56;
 }
+#msg-box8-22 .lead P {
+  font-family: 'Arimo', sans-serif;
+  font-size: 20px;
+}
 #features3-23 H4 {
   color: #fac51c;
 }
@@ -1168,6 +1174,7 @@ h6,
 }
 #features3-24 P {
   color: #ffffff;
+  font-size: 14px;
 }
 #content1-26 P {
   text-align: center;
