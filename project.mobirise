@@ -1692,7 +1692,7 @@
               "border-color": "#cfcfcf"
             },
             ".mbr-plan-subtitle": {
-              "color": "#232323"
+              "color": "#000000"
             },
             ".mbr-plan-label": {
               "color": "#f97352",
@@ -1710,13 +1710,22 @@
               "color": "#b8312f"
             },
             "UL": {
-              "color": "#ffffff"
+              "color": "#2969b0"
             },
             ".mbr-section__container .mbr-section-title": {
               "color": "#2969b0"
             },
             ".mbr-section__container .mbr-section-subtitle": {
               "color": "#000000"
+            },
+            ".mbr-plan-title": {
+              "color": "#2969b0"
+            },
+            "DIV": {
+              "color": "#41a85f"
+            },
+            "P": {
+              "color": "#41a85f"
             }
           },
           "_tags": [
@@ -1726,7 +1735,7 @@
           "_anchor": "pricing-table2-3b",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1747,43 +1756,43 @@
             "thirdType": "",
             "fourthType": "bg-primary"
           },
-          "title": "SUGESTÃO DOS PREÇOS DO @FOOD",
-          "subtitle": "Solicite mais informações sobre como vendemos nosso produto.",
+          "title": "SUGESTÃO DOS PREÇOS &nbsp;@FOOD",
+          "subtitle": "Solicite mais informações sobre como vendemos nosso produto.<br>Nossos especialistas irão ajudá-lo a escolher a melhor opção de uso de nossa plataforma.<br>Confira.<br>",
           "label1": "<b>$$$</b>",
           "title1": "DELIVERY",
-          "subtitle1": "Empresas que desejam implentar rapidamente uma solução para DELIVERY.<br><br>VALORES A PARTIR DE&nbsp;<br>",
+          "subtitle1": "<br><b>VALORES A PARTIR DE&nbsp;</b><br>",
           "currency1": "R$",
           "price1": "220",
           "period1": "/Mês.",
           "description1": "",
-          "list1": "<ul class=\"list-group list-group-flush\"></ul>",
+          "list1": "<p><b>A Maneira mais rápida de colocar seu Delivery na Internet</b></p><p><br></p><p>Limitado a 300 produtos por Site</p><p>Limitado a 2 PDVs por Loja</p><p><br></p><p></p><ul class=\"list-group list-group-flush\"></ul><p></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label2": "HOT!",
           "title2": "Delivery + Fidelização",
-          "subtitle2": "Empresas que além do Delivery desejam conquistar fidelizar seus clientes.",
+          "subtitle2": "<br><b>VALORES A PARTIR DE</b><br>",
           "currency2": "R$",
           "price2": "330",
           "period2": "/Mês.",
           "description2": "",
-          "list2": "<ul class=\"list-group list-group-flush\"></ul>",
+          "list2": "<p><b>O menor custo para você&nbsp;</b></p><p><b>Vender na Internet</b></p><p><b>e</b></p><p><b>Fidelizar seus Clientes</b></p><p>Limitado a 300 produtos por Site</p><p>Limitado a 5 PDVs por LOJA</p><p><br></p><p></p><ul class=\"list-group list-group-flush\"></ul><p></p>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label3": "HOT!",
           "title3": "Restaurante Completo",
-          "subtitle3": "Permite utilizar todas as ferramentas do @FOOD, de modo integral.&nbsp;",
+          "subtitle3": "<br><b>VALORES A PARTIR DE&nbsp;</b>",
           "currency3": "R$",
           "price3": "450",
           "period3": "/Mês.",
           "description3": "",
-          "list3": "<ul class=\"list-group list-group-flush\"></ul>",
+          "list3": "<p><b>Plataforma completa de nosso produto.</b></p><p>Inclui todos os módulos disponíveis sem limites para PDVs, Usuários ou Itens.</p><p><b>Verifique os valores para Implantação.</b></p><p></p><ul class=\"list-group list-group-flush\"></ul><p></p>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label4": "<b>$$$</b>",
           "title4": "Customização do Aplicativo para Dispositivos Móveis",
-          "subtitle4": "&nbsp; Customize nosso aplicativo para dispositivos móveis com a Cara do seu negócio.<br><br>",
-          "currency4": "$",
-          "price4": "500",
-          "period4": "/por Loja.",
+          "subtitle4": "&nbsp;<br><br>",
+          "currency4": "R$",
+          "price4": "600",
+          "period4": "/por Aplicativo.",
           "description4": "",
-          "list4": "<ul class=\"list-group list-group-flush\"></ul>",
+          "list4": "<p>Sem limites de usuários</p><p>Ferramenta disponível nos Portais&nbsp;</p><p>APPLE STORE E GOOGLE STORE</p><p>Com o nome do seu estabelecimento</p>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
         },
         {
@@ -1820,7 +1829,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "left",
+            "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true

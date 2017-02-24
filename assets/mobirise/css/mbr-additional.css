@@ -939,7 +939,7 @@ h6,
   border-color: #cfcfcf;
 }
 #pricing-table2-3b .mbr-plan-subtitle {
-  color: #232323;
+  color: #000000;
 }
 #pricing-table2-3b .mbr-plan-label {
   color: #f97352;
@@ -956,13 +956,22 @@ h6,
   color: #b8312f;
 }
 #pricing-table2-3b UL {
-  color: #ffffff;
+  color: #2969b0;
 }
 #pricing-table2-3b .mbr-section__container .mbr-section-title {
   color: #2969b0;
 }
 #pricing-table2-3b .mbr-section__container .mbr-section-subtitle {
   color: #000000;
+}
+#pricing-table2-3b .mbr-plan-title {
+  color: #2969b0;
+}
+#pricing-table2-3b DIV {
+  color: #41a85f;
+}
+#pricing-table2-3b P {
+  color: #41a85f;
 }
 #header5-32 .mbr-section-title {
   color: #2969b0;
