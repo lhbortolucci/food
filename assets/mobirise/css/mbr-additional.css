@@ -1,13 +1,15 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
+
+
 
 
 
@@ -499,6 +501,12 @@ h6,
 #header1-33 .mbr-section-title SPAN {
   font-size: 46px;
   color: #fac51c;
+  font-family: 'Titillium Web', sans-serif;
+}
+#header1-33 .mbr-section-lead {
+  text-align: left;
+  color: #ffffff;
+  font-family: 'Titillium Web', sans-serif;
 }
 
 
@@ -591,14 +599,16 @@ h6,
 }
 
 
+
+
 #testimonials1-m .mbr-section-title SPAN {
-  color: #fac51c;
+  color: #41a85f;
   font-family: 'Noto Sans', sans-serif;
   font-size: 30px;
 }
 #testimonials1-m .card-block P {
-  color: #2969b0;
-  font-size: 12px;
+  color: #000000;
+  font-size: 14px;
 }
 #features1-q .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;
@@ -608,9 +618,13 @@ h6,
 }
 #features1-q .mbr-cards-col:nth-child(odd) .card-text {
   color: #3d8eb9;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 15px;
 }
 #features1-q .mbr-cards-col:nth-child(even) .card-text {
   color: #f97352;
+  font-size: 15px;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 #buttons1-v .btn {
   font-size: 15px;
@@ -742,6 +756,8 @@ h6,
 }
 
 
+
+
 #msg-box5-y P {
   font-family: 'Oxygen', sans-serif;
   text-align: left;
@@ -751,16 +767,22 @@ h6,
   color: #2969b0;
 }
 #features3-z H4 {
-  color: #e25041;
+  color: #2969b0;
 }
 #features2-12 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;
 }
 #features2-12 .mbr-cards-col:nth-child(odd) .card-text {
   color: #000000;
+  font-size: 14px;
+  font-family: 'Titillium Web', sans-serif;
+  text-align: left;
 }
 #features2-12 .mbr-cards-col:nth-child(even) .card-text {
   color: #000000;
+  font-size: 14px;
+  font-family: 'Titillium Web', sans-serif;
+  text-align: left;
 }
 #msg-box2-2g .mbr-section-title {
   color: #d14841;
@@ -829,6 +851,9 @@ h6,
 #menu-34 .link[aria-expanded="true"],
 #menu-34 .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
+}
+#features7-3e .card-subtitle {
+  color: #bcbcbc;
 }
 
 

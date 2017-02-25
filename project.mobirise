@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site @FOOD ",
-    "currentPage": "Preco.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 120,
+    "uniqCompNum": 123,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -153,7 +153,15 @@
             },
             ".mbr-section-title SPAN": {
               "font-size": "46px",
-              "color": "#fac51c"
+              "color": "#fac51c",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-section-lead": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
             }
           },
           "_anchor": "header1-33",
@@ -177,7 +185,7 @@
             "showButtons": true
           },
           "title": "<span style=\"font-size: 70px; line-height: 77px;\">Conheça o @FOOD</span><span style=\"font-size: 70px; font-weight: normal; line-height: 77px;\"><br></span><br><span style=\"color: rgb(193, 193, 193); line-height: 1.1;\">&nbsp;</span><br>",
-          "text": "<b>O &nbsp;@FOOD SUITE  é um conjunto de aplicações especialmente desenvolvidas para atender empresas do ramo de alimentação, Lojas de Conveniência, fast-food, franquias de alimentação, Restaurantes, self-services, entre outros.  Foi desenhado para suportar de forma fácil, eficiente e sustentável, os problemas reais que emergem no cotidiano da gestão desses negócios.<br></b><br><br>",
+          "text": "O &nbsp;<b>@FOOD SUITE</b>  é um conjunto de aplicações especialmente desenvolvidas para atender empresas do ramo de alimentação, fast-food, franquias de alimentação, Restaurantes, self-services, restaurantes a La Carte, Pizzarias, Docerias, entre outras.<br>  <br>Foi desenhado para suportar de forma fácil, eficiente e sustentável, os problemas reais que emergem no cotidiano da gestão desses negócios.<br><br>O Foco de nossa solução é seu cliente. Trabalhamos para que você proporcione o melhor atendimento possível, e para que seu cliente se sinta em casa.<br>Com o @FOOD, servir seu cliente será um prazer.<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Sobre .html\" data-toolbar=\"-mbrBtnMove\">Conheça nosso Produto</a> "
         }
       ]
@@ -481,19 +489,19 @@
           "_name": "testimonials1",
           "_styles": {
             ".mbr-section-title SPAN": {
-              "color": "#fac51c",
+              "color": "#41a85f",
               "font-family": "'Noto Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
               "font-size": "30px"
             },
             ".card-block P": {
-              "color": "#2969b0",
-              "font-size": "12px"
+              "color": "#000000",
+              "font-size": "14px"
             }
           },
           "testimonial": [
             {
-              "text": "<p>“Quando pensamos em um sistema para gestão de restaurantes, um dos primeiros requisitos que nos foi imposto foi ter um sistema para atender ao DELIVERY do estabelecimento. Sabíamos que ter um processo de entregas rápida, eficiente e principalmente integrada aos processos de venda do estabelecimento, seria muito importante para nosso cliente.\"</p>",
+              "text": "<p>“Quando pensamos em um sistema para gestão de restaurantes, um dos primeiros requisitos que nos foi imposto foi ter um sistema para atender ao DELIVERY do estabelecimento. Sabíamos que ter um processo de entregas rápida e eficiente &nbsp;seria muito importante para nosso cliente.\"</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/gestaorest3-138x160.png",
@@ -511,7 +519,7 @@
               "authorBio": ""
             },
             {
-              "text": "<p>\"Desenvolvemos na nossa suíte, uma ferramenta 100% integrada aos canais de vendas. Através do site do cliente, um consumidor pode adquirir os produtos do estabelecimento.&nbsp;<span style=\"line-height: 2;\">Fomos mais longe e também implementamos uma aplicação para celular, que como no site, pode ser utilizado para fazer pedidos.\"</span></p>",
+              "text": "<p>\"Desenvolvemos na nossa suíte, uma ferramenta 100% integrada com todos os canais de &nbsp;vendas. <span style=\"line-height: 2;\">Fomos mais longe &nbsp;e levamos o Site para os dispositivos móveis, trazendo mais liberdade e flexibilidade ao seu cliente. Agora ele faz os pedidos também &nbsp;pelo seu celular ou Tablet. \"</span></p><p><span style=\"line-height: 2;\"><br></span></p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/gestaorest2-151x160.jpg",
@@ -529,7 +537,7 @@
               "authorBio": ""
             },
             {
-              "text": "<p>\"Então outro passo foi dado, integramos o PDV de nosso produto ao Delivery, e finalmente, conseguimos uma solução completa, que atende plenamente seu cliente e seu estabelecimento.</p><p>Agora com o @FOOD, você consegue muito rapidamente atender seus pedidos com eficiência, velocidade, qualidade e com total controle.\"</p>",
+              "text": "<p>\"Então outro passo foi dado, integramos esses canais de venda ao &nbsp;PDV de nosso produto ao Delivery, e conseguimos uma solução completa, que atende plenamente seu cliente e seu estabelecimento.</p><p><b>Agora com o @FOOD, você consegue &nbsp;atender seus pedidos com eficiência, velocidade, qualidade e com total controle.</b>\"</p><p><b><i>O @FOOD é DEMAIS</i></b>\"</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/gestaorest1-160x160.png",
@@ -582,10 +590,16 @@
               "color": "#2969b0"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
-              "color": "#3d8eb9"
+              "color": "#3d8eb9",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "15px"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
-              "color": "#f97352"
+              "color": "#f97352",
+              "font-size": "15px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
           },
           "_anchor": "features1-q",
@@ -626,7 +640,7 @@
           },
           "title1": "&nbsp;",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Ferramenta para vendas de produtos pela Internet na qual os clientes poderão realizar pedidos e modificações do prato &nbsp;ou prroduto desejado.&nbsp;<br>Venda para clientes previamente cadastrados.&nbsp;<br>Todos pedidos que chegam ao portal, são processados imediatamente, e o cliente recebe uma confirmação do pedido por e-mail.",
+          "caption1": "Ferramenta de venda de produtos pela Internet na qual os clientes poderão realizar pedidos. Permite a customização dos pratos. &nbsp;<br><span style=\"line-height: 1.5;\">Todos pedidos que chegam ao portal, são processados imediatamente, e o cliente recebe uma confirmação do pedido por e-mail.</span><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -642,7 +656,7 @@
           },
           "title2": "",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Gerenciador de entregas permite a definição das tarifas por range de CEP, como também, permite a definição das regiões atendidas pelo sistema Delivery da empresa e os horários em que o Delivery está ativo.<br>Sistema integrado com o ‘Google Maps”, gerando automaticamente o trajeto a ser percorrido pelos entregadores até o endereço do cliente.<br>",
+          "caption2": "Gerenciador de entregas permite a definição das tarifas por range de CEP. Permite a definição das regiões atendidas pelo sistema Delivery da empresa e os horários em que o Delivery está ativo.<br>Sistema integrado com o ‘Google Maps”, gera automaticamente o trajeto a ser percorrido pelos entregadores até o endereço do cliente.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -690,7 +704,7 @@
           },
           "title5": "",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Aplicativo para Celulares &nbsp;customizado para o seu estabelecimento.<br>&nbsp;Processo de acompanhamento de entrega e customização de pratos.<br>Esse aplicativo é totalmente customizado e otimizado para o seu negócio, colocando na mão do cliente seu estabelecimento.<br>&nbsp;",
+          "caption5": "Aplicativo para dispositivos móveis &nbsp;customizado para o seu estabelecimento.<br>&nbsp;Processo de acompanhamento de entrega e customização de pratos.<br>Esse aplicativo é totalmente customizado e otimizado para o seu negócio.<br>&nbsp;",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
@@ -706,7 +720,7 @@
           },
           "title6": "",
           "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Integrado ao PDV ou Checkout, o sistema informa automaticamente todos os pedidos solicitados ao através do site ou do Celular, assim, tudo é encaminhado para produção, despacho e entrega muito rápidamente. Assim que as entregas são feitas, os pedidos são fechados e faturados no Caixa.<br><br>",
+          "caption6": "Integrado ao PDV ou Checkout, o sistema informa &nbsp;forms automatica todos os pedidos solicitados ao através do site ou do Celular, assim, tudo é encaminhado para produção, despacho e entrega muito rápidamente. &nbsp;<br><br>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
@@ -1063,7 +1077,7 @@
             }
           },
           "title": "Ferramentas inovadoras &nbsp;do módulo restaurante do @FOOD",
-          "text": "Desenvolvido para atender as mais exigentes necessidades do ambiente de restaurantes, nossa plataforma &nbsp;contém uma ampla gama de ferramentas, que visam desde o ponto de venda &nbsp;até &nbsp;o autoatendimento. Várias formas de atender seu cliente, melhora a performance e cativa o usuário. Veja as principais abaixo e seus benefícios.",
+          "text": "Desenvolvido para atender as mais exigentes necessidades do ambiente de restaurantes, nossa plataforma &nbsp;contém uma ampla gama de ferramentas, que visa desde o ponto de venda &nbsp;até &nbsp;o autoatendimento. Várias formas de atender &nbsp;e cativar o seu cliente<br><b>Veja as principais abaixo e seus benefícios.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1073,7 +1087,7 @@
           "_name": "features3",
           "_styles": {
             "H4": {
-              "color": "#e25041"
+              "color": "#2969b0"
             }
           },
           "_anchor": "features3-z",
@@ -1101,7 +1115,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/checkout6-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/checkout23-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1149,7 +1163,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dashboard-600x330.png",
+              "src": "@PROJECT_PATH@/assets/images/cozinha02-600x316.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1199,10 +1213,18 @@
               "background-color": "#ffffff"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "14px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "text-align": "left"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "14px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "text-align": "left"
             }
           },
           "_anchor": "features2-12",
@@ -1243,7 +1265,7 @@
           },
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "O @FOOD atende a todos os requisitos para cumprir os procedimentos de venda de seu estabelecimento. Nosso checkout (PDV) trabalha localmente e conectado a NUVEM na Internet, onde guardamos todos os dados de suas vendas.&nbsp;<br>Se, eventualmente, algum acidente aconter, e já vimos vários, nosso produto permite a recuperação imediata dos dados, para que você, &nbsp;continue operando normalmente, recuperando a posição de pedidos de todas as mesas, delivery, vendas no site.&nbsp;<br>Essa inovadora ferramenta, não deixa você na mão. Confira.",
+          "caption1": "No&nbsp;<b>@FOOD</b>&nbsp;nosso checkout (PDV) trabalha localmente &nbsp;(caso fique sem internet) &nbsp;e também conectado a NUVEM , onde guardamos todos os dados de suas vendas em tempo real, caso tenha algum problema, você consegue em poucos minutos estar novamente em funcionamento, recuperando todos os dados até o momento do incidente.&nbsp;<br><br>Você não deixa de registar nenhuma venda. Quando sua internet voltar a funcionar, os dados são carregados para a NUVEM, e permite você verificar &nbsp;como anda seu movimento até de seu celular em tempo real.<br><br>No @FOOD, você pode configurar vários PDVs, rapidamente. Crie PDVs TOUCH, WEB, Fiscais, Não fiscais, em alguns minutos.<br><br><br><b>Essa inovadora ferramenta, não deixa você na mão. Confira.</b>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1257,7 +1279,7 @@
           },
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Essa outra boa ferramenta, é mais do que um Menu Eletrônico, ele permite que através de qualquer dispositivo móvel, como celulares ou tablets, o seu garçon consiga rapidamente oferecer e anotar os pedidos e disponibilizar para que a cozinha e o bar execute os pedidos. Uma interface intuitiva, ajuda garçons mais novatos a anotarem os pedidos, enquanto os mais experientes usam os códigos de produtos para atender mais rapidamente.<br>Além disso, o garçon pode customizar o prato, colocando ou retirando itens, pode informar o ponto ou algum detalhe específico que o cliente solicitou. Um conjunto de segurança, torna o garçon eletrônico extremamente confiável.&nbsp;",
+          "caption2": "Essa outra boa ferramenta, é mais do que um Menu Eletrônico.<br>Ele permite que através de qualquer dispositivo móvel, como celulares ou tablets, o seu garçon consiga rapidamente oferecer e anotar os pedidos e disponibilizar para que a cozinha e o bar execute os pedidos.<br> <br>Uma interface intuitiva, ajuda garçons mais novatos a anotarem os pedidos, enquanto os mais experientes usam os códigos de produtos para atender mais rapidamente.<br><br>Além disso, o garçon pode customizar o prato, colocando ou retirando itens, pode informar o ponto ou algum detalhe específico que o cliente solicitou.<br> Um conjunto de segurança, torna o garçon eletrônico extremamente confiável.&nbsp;<br><br><b>Rapidez e Confiabilidade no processo de venda nas mesas.</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -1271,7 +1293,7 @@
           },
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Desenvolvido para atender a clientes mais exigentes, essa ferramenta leva seu estabelecimento para o celular de seu cliente. Diferentemente do garçon eletrônico, o CLIENTE VIP, é uma ferramenta de autoatendimento, permitindo que o próprio cliente faça seus pedidos através de seu próprio celular, dentro de seu estabelecimento. Quando o cliente solicita o CLIENTE VIP, o sistema gera um conjunto de senha e contra senha, que é fornecido ao cliente, ele consegue a partir dai, solicitar todo o cardápio diretamente ao seu PDV. Ao mesmo tempo é colocado o pedido na cozinha e no Bar, para ser enviado a mesa do cliente. Quando o cliente terminar o consumo, solicita a conta. Assim que a conta é fechada, a senha e contra senha são excluídos, oferecendo segurança ao estabelecimento e ao cliente. Veja como funciona.",
+          "caption3": "Desenvolvido para atender a clientes mais exigentes, essa ferramenta leva seu estabelecimento para o celular de seu cliente. <br><br>Diferentemente do garçon eletrônico, o CLIENTE VIP, é uma ferramenta de autoatendimento, permitindo que o próprio cliente faça seus pedidos através de <b>seu próprio celular</b>, dentro de seu estabelecimento. <br><br>Quando o cliente solicita o <b>CLIENTE VIP</b>, o sistema gera um conjunto de senha e contra senha, que é fornecido ao cliente, ele consegue a partir dai, solicitar todo o cardápio diretamente ao seu PDV.<br><br> Ao mesmo tempo é colocado o pedido na cozinha e no bar, para ser enviado a mesa do cliente. <br><br>Quando o cliente terminar o consumo, solicita a conta. Assim que a conta é fechada, a senha e contra senha expiram, oferecendo segurança ao estabelecimento e ao cliente. Veja como funciona.<br><br><b>Flexibilidade e Diferencial. Seu Cliente se sente em Casa.</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1285,7 +1307,7 @@
           },
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Através do Dashboard a cozinha do estabelecimento consegue programar e preparar os pratos, conforme os pedidos vão entrando no sistema.&nbsp;<br>Substitui o tradicional \"papelzinho\" que orienta os cozinheiros a preparar os pratos. Pode-se também estipular valores de tempo para que cada atendimento seja realizado, indicando os que estão em atraso ou pendente de alguma necessidade especial.<br>Através do Dashboard, sua cozinha fica mais eficiente e o atendimento mais ágil.",
+          "caption4": "Através do Dashboard a cozinha do estabelecimento consegue programar e preparar os pratos, conforme os pedidos vão entrando no sistema.&nbsp;<br><br>Substitui o tradicional \"papelzinho\" que orienta os cozinheiros a prepararem os pratos. <br>Pode-se também estipular valores de tempo para que cada atendimento seja realizado, indicando os que estão em atraso ou pendente de alguma necessidade especial.<br><br><b>Sua cozinha &nbsp;mais eficiente e o atendimento mais ágil e com controle</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -1445,6 +1467,132 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tecnologia.html\">TECNOLOGIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sobre .html\">MÓDULOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Videos.html\">VÍDEOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Clientes.html\">CLIENTES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"seu negocio.html\">SEU NEGÓCIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Preco.html\">PREÇO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contato..html\">CONTATO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-3e",
+          "_params": {
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         }
       ]
     },
@@ -1754,7 +1902,7 @@
             "showButtons": false,
             "secondType": "",
             "thirdType": "",
-            "fourthType": "bg-primary"
+            "fourthType": ""
           },
           "title": "SUGESTÃO DOS PREÇOS &nbsp;@FOOD",
           "subtitle": "Solicite mais informações sobre como vendemos nosso produto.<br>Nossos especialistas irão ajudá-lo a escolher a melhor opção de uso de nossa plataforma.<br>Confira.<br>",
@@ -1765,7 +1913,7 @@
           "price1": "220",
           "period1": "/Mês.",
           "description1": "",
-          "list1": "<p><b>A Maneira mais rápida de colocar seu Delivery na Internet</b></p><p><br></p><p>Limitado a 300 produtos por Site</p><p>Limitado a 2 PDVs por Loja</p><p><br></p><p></p><ul class=\"list-group list-group-flush\"></ul><p></p>",
+          "list1": "<p><b>A Maneira mais rápida de colocar seu Delivery na Internet</b></p><p><br></p><p>Limitado a 100 produtos por Site</p><p>Limitado a 2 PDVs por Loja</p><p></p><ul class=\"list-group list-group-flush\"></ul><p></p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label2": "HOT!",
           "title2": "Delivery + Fidelização",
@@ -1774,7 +1922,7 @@
           "price2": "330",
           "period2": "/Mês.",
           "description2": "",
-          "list2": "<p><b>O menor custo para você&nbsp;</b></p><p><b>Vender na Internet</b></p><p><b>e</b></p><p><b>Fidelizar seus Clientes</b></p><p>Limitado a 300 produtos por Site</p><p>Limitado a 5 PDVs por LOJA</p><p><br></p><p></p><ul class=\"list-group list-group-flush\"></ul><p></p>",
+          "list2": "<p><b>O menor custo para você&nbsp;</b></p><p><b>Vender na Internet&nbsp;</b><b style=\"font-size: 1rem; line-height: 1.5;\">e</b></p><p><b>Fidelizar seus Clientes</b></p><p>Limitado a 150 produtos por Site</p><p>Limitado a 5 PDVs por LOJA</p><p></p><ul class=\"list-group list-group-flush\"></ul><p></p>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label3": "HOT!",
           "title3": "Restaurante Completo",
@@ -1786,13 +1934,13 @@
           "list3": "<p><b>Plataforma completa de nosso produto.</b></p><p>Inclui todos os módulos disponíveis sem limites para PDVs, Usuários ou Itens.</p><p><b>Verifique os valores para Implantação.</b></p><p></p><ul class=\"list-group list-group-flush\"></ul><p></p>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label4": "<b>$$$</b>",
-          "title4": "Customização do Aplicativo para Dispositivos Móveis",
+          "title4": "Customização do Aplicativo&nbsp;",
           "subtitle4": "&nbsp;<br><br>",
           "currency4": "R$",
           "price4": "600",
           "period4": "/por Aplicativo.",
           "description4": "",
-          "list4": "<p>Sem limites de usuários</p><p>Ferramenta disponível nos Portais&nbsp;</p><p>APPLE STORE E GOOGLE STORE</p><p>Com o nome do seu estabelecimento</p>",
+          "list4": "<p>Sem limites de usuários</p><p>Ferramenta disponível nos Portais&nbsp;<span style=\"font-size: 1rem; line-height: 1.5;\">APPLE STORE E GOOGLE STORE</span></p><p>Com o nome do seu estabelecimento</p>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
         },
         {
